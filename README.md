@@ -11,6 +11,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ivo0509" alt="ivo0509" /></a> </p>
 
 ### <h2> 🤝🏻 Connect with Me </h2>
+
 <p align="left">
   <a href="https://www.linkedin.com/in/ivan-iordanov-6aa745317/" target="blank"><img align="center"
       src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/linked-in-alt.svg"
